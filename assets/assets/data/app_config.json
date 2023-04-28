@@ -1,0 +1,170 @@
+{
+  "returnCode": "000000",
+  "returnMsg": "Success!",
+  "record": {
+    "collect_life_cle": "1",
+    "super_room_manager": "5016632,4670884,4688836,3193301,3000024,3000012,3296488,3290983,3000001,3000004,3400262,3392128,3402159,3514346,4107285,3579521,4110279,3220377,3959060,3000336,4615314",
+    "medal_price": "2000",
+    "youtube_channels_home": "UCi8e0iOVk1fEOogdfu4YgfA#Movie Clip Trailers#https://goo.gl/sCYfMV,UCMhIPexLDLiLZb4ywFTpuqg#MangoBaaz#https://goo.gl/ee8xDh,UCmV3lSuPqHokVt9RObPDRgw#Troll Cricket#https://goo.gl/x4DPvF,UCVBXum_ntfgHgHCOYtGOmEw#ZaidAliT Vlogs#https://goo.gl/fj2LJ9,UCmnt4lY5v9EQDWWE89OXrhQ#Sham Idrees#https://goo.gl/wXmalS,UChIrj5Qb5V-TZIRrk0Df-Uw#Shahveer Jafry#https://goo.gl/I5U703",
+    "ads_count_limit": "1",
+    "ludo_test_rooms": ",http://game.oyetalk.live/flightchess/",
+    "ep_coin_price": "540:OyeTalk:PLAY BIG !! WIN BIG !! Play Royal Pattern Now !!",
+    "wifi_support": "1",
+    "paytm_payment_show_url": "https://securegw.paytm.in/theia/api/v1/showPaymentPage",
+    "max_size_upload_file": "5",
+    "tlevel_go_live": "1",
+    "show_lan_countries": "false",
+    "label_show_in_home": "206|208|209,PK1=206|208|209,PK210=206|208|209",
+    "app_ramadan_event": "Rehmat-e-Ramadan#1#2066871#https://goo.gl/8Jhex2,Rehmat-e-Ramadan#2#2083893#https://goo.gl/EmVbWA,Rehmat-e-Ramadan#3#2018805#https://goo.gl/DvmZSE,Rehmat-e-Ramadan#2#2083893#https://goo.gl/EmVbWA,Rehmat-e-Ramadan#4#2003107#https://goo.gl/DvmZSE,Eid Event 2017#1#2207378#http://34.210.95.182:8080/event_medal/eid_gold.png,Eid Event 2017#2#2140710#http://34.210.95.182:8080/event_medal/eid_silver.png,Eid Event 2017#3#2014232#http://34.210.95.182:8080/event_medal/eid_bronze.png,SkGotTalent#1#2207843#http://34.210.95.182:8080/event_medal/gold.png,SkGotTalent#2#2147833#http://34.210.95.182:8080/event_medal/silver.png,SkGotTalent#3#2215552#http://34.210.95.182:8080/event_medal/bronze.png",
+    "present_activity": "1621353600000|1621353600000|http://www.oyetalk.live/event/Chakdephatte2K21/index.html|8",
+    "top_talent_ranking_image": "#",
+    "youtube_key": "AIzaSyBSD0dDkAUz_vm53smiZtc3BejgPTbLykQ",
+    "fb_base_url": "http://34.210.95.182:8080/",
+    "tp_card_transform": "700",
+    "user_modify_country_day": "15",
+    "tk_on_watch_ads": "1",
+    "sign_by_account_pwd": "1",
+    "gems_beans": "http://www.oyetalk.live/event/talent/#/exchange",
+    "talent_payroll": "http://www.oyetalk.live/event/talent/#/earning",
+    "pk_label_image": "https://z3.ax1x.com/2021/07/05/R4tqAS.png",
+    "support_paytm": "0",
+    "app_event_ranking": "Eid-ul-Azha Special@http://www.oyetalk.tv/event/eidUlAzhaSpecial/index.html@http://d3py0gff3tm44e.cloudfront.net/event/azha.png",
+    "tlevel_privilege_mic_9": "10",
+    "talent_sign": "http://www.oyetalk.live/event/talent/#",
+    "app_birthday_talents": "1",
+    "eid_special_activity": "1620748800000|1621353599000|http://www.oyetalk.live/event/eid2k21/index.html|7",
+    "app_login_page_show_sms": "IN,PK,CN",
+    "topup_banner": "http://www.oyetalk.tv/event/topupoffer/index.html",
+    "new_label_id": "207",
+    "go_live_cover": "1",
+    "error_modal": "0",
+    "lottery_page_display": "1",
+    "razorpay_enable": "1",
+    "room_abuser_enable": "1",
+    "reseller_url": "http://www.oyetalk.live/event/oyetalkReseller/",
+    "transparent_method": "0",
+    "ulevel_privilege_mic_9": "10",
+    "imageConfig": {
+      "1": {
+        "A": 800,
+        "B": 1280
+      },
+      "2": {
+        "A": 128,
+        "B": 480
+      },
+      "3": {
+        "A": 256
+      },
+      "4": {
+        "A": 48,
+        "B": 128
+      },
+      "5": {
+        "A": 256
+      },
+      "6": {
+        "A": 128,
+        "B": 256,
+        "C": 480,
+        "D": 800
+      },
+      "7": {
+        "A": 80,
+        "B": 128,
+        "C": 256
+      },
+      "8": {
+        "A": 80,
+        "B": 128,
+        "C": 256,
+        "D": 640
+      },
+      "9": {
+        "A": 480,
+        "B": 128
+      },
+      "10": {
+        "A": 1024
+      },
+      "11": {
+        "A": 200
+      },
+      "12": {
+        "A": 360,
+        "B": 720
+      },
+      "13": {
+        "A": 100,
+        "B": 160
+      },
+      "15": {
+        "A": 400,
+        "B": 720
+      },
+      "18": {
+        "A": 128,
+        "B": 256
+      }
+    },
+    "query_user_room_size": "10",
+    "super_vip": "3193301,3000024,3000001,3290983,3000012,3296488,3290983,3000001,3000004,3400262,3392128,3402159,3514346,4107285,3579521,4110279,3959060,3000336,4615314,5597899,5649082",
+    "topup_offer": "1620921600000|1621094399000|http://www.oyetalk.live/event/TopUpOfferMidMay/index.html|https://ftp.bmp.ovh/imgs/2021/03/2bd4ea52cf421c42.png|6",
+    "currencyRate": {
+      "PKR": 2,
+      "USD": 300,
+      "INR": 3.8
+    },
+    "payment_server": "https://www.oyetalk.live/oyetalk-pay-center/api/v2/easypaisa/init",
+    "mic_request_user_level": "3",
+    "app_version": "{\"iosConfig\":{\"forceUpdate\":false,\"versionCode\":\"2.4.3\",\"buildCode\":176,\"description\":\"\\nUpdates:\\n1. Royal Pattern has optimized and more stable.\\n2.Dynamic effects in Royal Pattern and a better user experience. \",\"minVersion\":174},\"androidConfig\":{\"forceUpdate\":false,\"versionCode\":\"2.4.3\",\"buildCode\":219,\"description\":\"\\nUpdates:\\n1. Royal Pattern has optimized and more stable.\\n2.Dynamic effects in Royal Pattern and a better user experience.\",\"minVersion\":216}}",
+    "topup_gift_activity": "1621958400000|1654012800000|flutter://top_up_gift_location/false/topup_gift_activity|24|https://d1u2j4e31c7w3z.cloudfront.net/icon/popup/07D0D8A3-5C61-4AA9-B1CB-B6057893EBAD.png",
+    "app_location_portaltype": "en#201,ar#210",
+    "talent_apply_url": "http://www.oyetalk.live/event/talent/",
+    "razorpay_name": "Razorpay",
+    "report_content_user": "Other#Hate Speech#Bad Picture#Abusing",
+    "app_invite_show": "0",
+    "app_android": "0|2.3.0|212|\\n1. Added PK function in the live room.\\n2.Added sliding function in the live room.\\n3.Optimized Slog page.\\n4.Added sliding feature in Slog page.\\n5.Adjusted and optimized some other interface.\\n6.Fixed some known bugs.|-1",
+    "payment_server_url": "https://www.oyetalk.live",
+    "tlevel_privilege_mic_10": "20",
+    "app_level_gift": "2001101#5,2001136#7,2001135#13,2001124#17,2001137#20,2001113#24,2001087#34",
+    "path_share_image": "image",
+    "amazon_s3_address2": "http://d3py0gff3tm44e.cloudfront.net/",
+    "app_broadcast_requirement": "level=3|label=299",
+    "show_home_icon": "1",
+    "ulevel_privilege_mic_10": "20",
+    "room_sticks": "emed|fhmed|hsmed|hg|rabbit|hmmj|mrrmed|ymyz|ax|axls|cmls",
+    "ulevel_privilege_avatar": "3",
+    "pk_help": "http://www.oyetalk.live/event/pkHelp/index.html",
+    "ulevel_post_status": "1",
+    "app_topcoin_ranking": "3015208,3024999",
+    "quick_entry_greedy_show": "1",
+    "path_temp": "temp",
+    "inbox_level": "3",
+    "whitelist_countries": "SA|LK|AE|KW|QA|OM|EG|IR|PK|IN|BH|ID|MY|TR",
+    "ulevel_go_live": "1",
+    "wifi_credentials": "Lemnation 4|LEM@1234#PTCL-BB|13136bc3#tony's iPhone|13136bc3",
+    "need_picture_validation": "0",
+    "level_page_url": "http://www.oyetalk.live/event/myLevel/index.html",
+    "amazon_s3_address": "http://s3.ap-south-1.amazonaws.com/",
+    "android_log_expiry_period": "10",
+    "youtube_channel_official": "UCUQ0YK8SxhDfUXIR3JNnA6g",
+    "paytm_payment_callback_url": "https://securegw.paytm.in/theia/paytmCallback?ORDER_ID=",
+    "push_channel_vip_talent": "vip-talent",
+    "currency_unit": "USD",
+    "google_in_app_billing_item_ids": "1400coins|14000coins|42000coins|700coins|7000coins|210coins",
+    "amazon_s3_bucket_name2": "",
+    "tp_check_balance": "0",
+    "sofa_price_add": "100",
+    "master_of_combos": "1618704000000|1619308799000|http://www.oyetalk.live/event/MasterOfCombosApril/index.html|https://z3.ax1x.com/2021/04/08/cYZyy8.png|https://z3.ax1x.com/2021/04/08/cYZsQf.png|9",
+    "cash_out_currency_rate": "50",
+    "razorpay_server_url": "http://status.oyetalk.tv/oyetalk-pay-center/",
+    "report_content_video": "Other#Hate Speech#Bad Picture#Abusing",
+    "slog_config": "{\n\"max_picture\":5,\n\"max_record_duration\":90,\n\"min_record_duration\":5,\n\"bg_changing_interval\":3,\n\"max_text_length\":256,\n\"max_text_line\":6,\n\"max_record_clip\":10,\n\"min_play_visibility_percentage\":80\n}",
+    "push_channel_all": "OyeTalk-global",
+    "lottery_game_url": "http://www.oyetalk.live/event/luckyWheel/index.html?timestr=1",
+    "amazon_s3_bucket_name": "oyetalk",
+    "tp_seat_dance": "1",
+    "store_init_index": "1"
+  }
+}

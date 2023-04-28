@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "selected": true,
+      "title": "Standard",
+      "img": "assets/images/card_standard_demo.png",
+      "index": 0
+    },
+    {
+      "selected": false,
+      "title": "Special",
+      "img": "assets/images/card_couple_demo.png",
+      "index": 1
+    },
+    {
+      "selected": false,
+      "title": "Friends",
+      "img": "assets/images/card_friends_demo.png",
+      "index": 4
+    },
+    {
+      "selected": false,
+      "title": "Party",
+      "img": "assets/images/card_fm_demo.png",
+      "index": 3
+    },
+    {
+      "selected": false,
+      "title": "Heart",
+      "img": "assets/images/card_heart_demo.png",
+      "index": 2
+    },
+    {
+      "selected": false,
+      "title": "Exclusive",
+      "img": "assets/images/card_exclusive_demo.png",
+      "index": 5
+    },
+    {
+      "selected": false,
+      "title": "Royal",
+      "img": "assets/images/card_royal_demo.png",
+      "index": 6
+    }
+  ]
+}
